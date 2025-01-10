@@ -1,5 +1,5 @@
 ---
-date: '2025-01-09'
+date: '4'
 title: 'Machine Learning Instructor'
 company: 'iD Tech Camps'
 location: 'Remote'

@@ -1,6 +1,6 @@
 ---
-date: '2025-01-09'
-title: 'TA for AI Algorithms Class (CS162) '
+date: '1'
+title: 'Machine Learning Instructor '
 company: 'Google Developer Student Club (GDSC)'
 location: 'San Francisco, CA'
 range: 'August 2022 - May 2023'

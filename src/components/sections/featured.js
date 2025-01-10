@@ -41,7 +41,7 @@ const StyledProject = styled.li`
 
   &:nth-of-type(odd) {
     .project-content {
-      grid-column: 7 / -1;
+      grid-column: 8 / -1;
       text-align: right;
 
       @media (max-width: 1080px) {
@@ -93,7 +93,7 @@ const StyledProject = styled.li`
 
   .project-content {
     position: relative;
-    grid-column: 1 / 7;
+    grid-column: 1 / 6;
     grid-row: 1 / -1;
 
     @media (max-width: 1080px) {
@@ -290,8 +290,8 @@ const StyledProject = styled.li`
 
     .img {
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
+      mix-blend-mode: none;
+      filter: contrast(1) brightness(90%);
 
       @media (max-width: 768px) {
         object-fit: cover;
@@ -384,7 +384,7 @@ const Featured = () => {
                     <div className="project-links">
                       {cta && (
                         <a href={cta} aria-label="Course Link" className="cta">
-                          Learn More
+                          Try it on your machine!
                         </a>
                       )}
                       {github && (
