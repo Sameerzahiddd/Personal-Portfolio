@@ -1,0 +1,12 @@
+---
+date: '2025-01-09'
+title: 'TA for AI Algorithms Class (CS162) '
+company: 'Minerva University'
+location: 'San Francisco, CA'
+range: 'August 2022 - Present'
+url: 'https://www.minerva.edu/'
+---
+
+- Designed assignments for DS&A concepts like arrays, hash maps, search algorithms (BFS/DFS); graded 130+ freshmen
+- Promoted to TA for the Artificial Intelligence Algorithms class (CS162), specializing in deep learning in junior year
+- Provided one-on-one classes to students, leading to a 25% improvement in assignment completion rates by deadlines

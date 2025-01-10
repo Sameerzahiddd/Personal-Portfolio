@@ -63,13 +63,13 @@ const Hero = () => {
   const two = <h2 className="big-heading">Sameer Zahid.</h2>;
   const three = (
     <h3 className="big-heading">
-      I research and aspire to build safe AI systems that advance educational opportunities.
+      I research and try to build safe AI systems that advance educational opportunities.
     </h3>
   );
   const four = (
     <>
       <p style={{ whiteSpace: 'nowrap' }}>
-        Currently changing the way people learn on online forums through{' '}
+        Currently changing the way people read documents online through{' '}
         <a href="https://github.com/Sameerzahiddd/ReadEase" target="_blank" rel="noreferrer">
           ReadEase
         </a>
