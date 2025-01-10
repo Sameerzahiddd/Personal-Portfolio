@@ -7,6 +7,6 @@ range: 'August - December 2023'
 url: 'https://notco.com/ca-en/about/giuseppe'
 ---
 
-- Led a churn reduction initiative at NotCo, a plant-based food-tech company, by conducting cohort analysis and logistic regression in Python on NotMayo customers, identifying at-risk segments and enabling retention strategies.
-- Collaborated with marketing and customer experience teams to implement personalized follow-ups and support for at-risk customer segments, reducing churn by ~4% which is projected to retain an additional $9.92 million in annual revenue for 2024
-- Enhanced search accuracy by 5% by leveraging Power BI and Excel to optimize data indexing for the proprietary NotCo AI software, enabling efficient nutrient composition searches for the model to curate recipes resulting in reduced overhead per query
+- Streamlined the transfer of ~300k nutrient from Excel into NotCo's proprietary database using SQL, enhancing data indexing and improving search efficiency for the Giuseppe AI model.
+- Worked with a team of data scientists to fine-tune Giuseppe by incorporating the new datasets, leading to more accurate plant-based ingredient combinations and superior product formulations.
+- Engineered a discernment layer for recipe formulation that evaluates generated combinations for market viability.

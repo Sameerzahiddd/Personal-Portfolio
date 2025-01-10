@@ -1,6 +1,6 @@
 ---
 date: '2025-01-09'
-title: 'TA for AI Algorithms Class (CS162) '
+title: 'TA for AI Algorithms Class'
 company: 'Minerva University'
 location: 'San Francisco, CA'
 range: 'August 2022 - Present'

@@ -1,9 +1,9 @@
 ---
 date: '2025-01-09'
-title: 'ML Instructor'
+title: 'Machine Learning Instructor'
 company: 'iD Tech Camps'
 location: 'Remote'
-range: 'June 2024 - August 2024'
+range: 'June - September 2024'
 url: 'https://www.idtech.com/'
 ---
 

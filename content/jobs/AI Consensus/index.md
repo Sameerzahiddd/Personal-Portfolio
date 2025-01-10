@@ -1,11 +1,13 @@
 ---
 date: '2025-01-09'
-title: 'TA for AI Algorithms Class (CS162) '
+title: 'Co-Founder & Director of Web Strategy and Partnerships'
 company: 'AI Consensus'
 location: 'San Francisco, CA'
-range: 'August 2022 - May 2023'
-url: 'https://developers.google.com/community/gdsc-solution-challenge'
+range: 'March 2023 - Present'
+url: ''
 ---
 
-- Led and instructed a 2-month intermediate Machine Learning course to 80+ students at Minerva University GDSC
-- Mentored students to apply deep learning by creating an attention-based Image Captioning model in TensorFlow
+- Co-Founding Member of AI Consensus, a student organization focused on responsibly integrating AI into education. Helped grow the organization from its inception in March 2023 to securing over $200K in funding to date.
+- Designed, developed, and currently maintain the official website of AI Consensus.
+- Lead efforts in establishing partnerships and connections across North America, collaborating with educators, institutions, and AI experts.
+- Spearhead the marketing and organization of events in North America to promote AIC’s mission and engage students in discussions about the future of education with AI.
