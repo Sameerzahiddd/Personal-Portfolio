@@ -63,12 +63,12 @@ const Hero = () => {
   const two = <h2 className="big-heading">Sameer Zahid.</h2>;
   const three = (
     <h3 className="big-heading">
-      I research and build safe AI systems that advance educational opportunities
+      I research and aspire to build safe AI systems that advance educational opportunities.
     </h3>
   );
   const four = (
     <>
-      <p>
+      <p style={{ whiteSpace: 'nowrap' }}>
         Currently changing the way people learn on online forums through{' '}
         <a href="https://github.com/Sameerzahiddd/ReadEase" target="_blank" rel="noreferrer">
           ReadEase
@@ -78,12 +78,8 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href="#about" rel="noreferrer">
+      Explore My Work
     </a>
   );
 
