@@ -7,20 +7,8 @@ module.exports = {
       url: 'https://github.com/sameerzahiddd',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/sameerzahidd',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://x.com/sameerzahidddd',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/mian-sameer-zahid/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/sameerzahidd',
     },
   ],
 
