@@ -2,7 +2,7 @@
 date: '2023-06-15'
 title: 'Mitigating AI Bias in Educational Tools'
 github: ''
-external: 'https://drive.google.com/file/d/1VmEa2gvCz2i9le-egqRLpyqdeGAa2hag/view?usp=sharing'
+external: '/ScaleAi.pdf'
 tech:
   - Python
   - TensorFlow
