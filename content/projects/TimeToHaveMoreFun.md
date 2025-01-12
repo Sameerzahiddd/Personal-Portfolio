@@ -1,14 +1,14 @@
 ---
-date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+date: '2023-06-15'
+title: 'Mitigating AI Bias in Educational Tools'
+github: ''
+external: 'https://drive.google.com/file/d/1VmEa2gvCz2i9le-egqRLpyqdeGAa2hag/view?usp=sharing'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
-company: ''
+  - Python
+  - TensorFlow
+  - Data Preprocessing
+company: 'Scale AI'
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Led the Scale AI research team to explore bias mitigation strategies for machine learning models in educational technology.

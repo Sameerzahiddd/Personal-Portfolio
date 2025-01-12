@@ -136,29 +136,18 @@ const About = () => {
           <div>
             <p>
               Hello! I'm Sameer, and I'm passionate about developing safe AI systems that enhance
-              human capabilities. My journey into AI began with teaching machine learning to
-              students at iD Tech Camps and Google Developer Student Clubs, where I discovered how
-              thoughtfully designed AI systems could transform education and accessibility.
+              learning capabilities. My journey into AI began with teaching machine learning to
+              students at Minerva University & Google Developer Student Clubs, where I discovered
+              how thoughtfully designed AI systems could transform education and accessibility.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              <a href="https://www.idtech.com/">a big tech camp</a>,{' '}
+              <a href="https://www.terraeducation.com/">a B-Corp</a>,{' '}
+              <a href="https://notco.com/">an AI company</a>, and{' '}
+              <a href="https://www.sportspot.online/">my very own startup</a>. My main focus these
+              days is on building <a href="https://main.domwg75nq6jft.amplifyapp.com/">ReadEase</a>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
