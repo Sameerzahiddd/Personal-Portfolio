@@ -3,7 +3,7 @@ date: '2'
 title: 'SportSpot'
 cover: './SportSpot.png'
 github: 'https://github.com/Sameerzahiddd/SportSpot'
-external: 'https://www.sportspot.online/'
+external: 'https://drive.google.com/drive/search?q=sportspot'
 tech:
   - React
   - Styled Components
