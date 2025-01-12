@@ -4,8 +4,8 @@ title: 'Student Debt, a disastrous convenience?'
 github: ''
 external: 'https://medium.com/@sameerzahiddd/student-debt-a-disastrous-convenience-1595ebab2e76'
 tech:
-  - Economic Analysis & Research
-  - Data Visualization & Interpretation
+  - Economic Analysis/Research
+  - Data Visualization
   - Policy Evaluation & Recommendations
 company: 'Minerva University'
 showInProjects: true
