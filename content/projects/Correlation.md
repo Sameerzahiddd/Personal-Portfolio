@@ -8,7 +8,7 @@ tech:
   - Correlation Coefficient
   - Predictive Analytics
   - Confidence Intervals
-company: 'Minerva Universoty'
+company: 'Minerva University'
 showInProjects: true
 ---
 
