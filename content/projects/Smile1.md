@@ -8,7 +8,7 @@ tech:
   - Convolutional Neural Networks (CNNs)
   - Cross Validation
 company: 'Minerva University'
-showInProjects: true
+showInProjects: false
 ---
 
 Development of a machine-learning model to classify images as "smiling" or "non-smiling." The project showcases each step, from preprocessing techniques to implementing two models—Logistic Regression and Convolutional Neural Networks (CNN), and evaluates their performance in this classification task.
