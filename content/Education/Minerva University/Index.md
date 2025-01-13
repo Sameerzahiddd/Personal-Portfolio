@@ -1,13 +1,13 @@
 ---
 date: '1'
-title: 'Director of Web Strategy and Partnerships'
-company: 'AI Consensus'
-location: 'San Francisco, CA'
-range: 'March 2023 - Present'
-url: ''
+degree: 'B.Sc. Computer Science'
+institution: 'Minerva University'
+range: 'August 2021 - Present'
+url: 'https://www.minerva.edu/'
 ---
 
-- Co-Founding Member of AI Consensus, a student organization focused on responsibly integrating AI into education. Helped grow the organization from its inception in March 2023 to securing over $200K in funding to date.
-- Designed, developed, and currently maintain the official website of AI Consensus.
-- Lead efforts in establishing partnerships and connections across North America, collaborating with educators, institutions, and AI experts.
-- Spearhead the marketing and organization of events in North America to promote AIC’s mission and engage students in discussions about the future of education with AI.
+- Pursuing a Bachelor of Science with a focus on Artificial Intelligence and Machine Learning.
+- Studied in immersive global cities, gaining diverse cultural experiences alongside academic excellence.
+- Completed advanced coursework in Machine Learning, Data Science, and Software Engineering.
+- Worked on multiple capstone projects involving AI research and web development.
+- Active member of the Google Developer Student Club, leading workshops and hackathons.
