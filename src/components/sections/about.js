@@ -153,10 +153,11 @@ const About = () => {
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.idtech.com/">a big tech camp</a>,{' '}
-              <a href="https://www.terraeducation.com/">a B-Corp</a>,{' '}
-              <a href="https://notco.com/">an AI company</a>, and{' '}
-              <a href="https://www.sportspot.online/">my very own startup</a>. My main focus these
-              days is on building <a href="https://main.domwg75nq6jft.amplifyapp.com/">ReadEase</a>.
+              <a href="https://www.terraeducation.com/">a B-Corp</a>, and an{' '}
+              <a href="https://notco.com/">AI company</a>. However, my focus these days is on
+              building something that helps those around me:{' '}
+              <a href="https://www.sportspot.online/">SportSpot</a> &
+              <a href="https://main.domwg75nq6jft.amplifyapp.com/">ReadEase</a>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
