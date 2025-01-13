@@ -11,4 +11,4 @@ company: 'Scale AI'
 showInProjects: true
 ---
 
-Led the Scale AI research team to explore bias mitigation strategies for machine learning models in educational technology.
+Led the Scale AI research team to explore bias mitigation strategies for machine learning models in hiring technology.
