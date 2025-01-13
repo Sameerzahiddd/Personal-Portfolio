@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Machine Learning Instructor '
 company: 'Google Developer Student Club (GDSC)'
 location: 'San Francisco, CA'

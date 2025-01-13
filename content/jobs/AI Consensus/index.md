@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '7'
 title: 'Director of Web Strategy and Partnerships'
 company: 'AI Consensus'
 location: 'San Francisco, CA'

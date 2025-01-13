@@ -1,6 +1,6 @@
 ---
 date: '2023-06-15'
-title: 'Mitigating AI Bias in Educational Tools'
+title: 'Mitigating AI Bias'
 github: ''
 external: '/ScaleAi.pdf'
 tech:

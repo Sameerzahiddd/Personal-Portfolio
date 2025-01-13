@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'TA for AI Algorithms Class'
 company: 'Minerva University'
 location: 'San Francisco, CA'
