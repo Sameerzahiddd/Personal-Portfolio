@@ -156,7 +156,7 @@ const About = () => {
               <a href="https://www.terraeducation.com/">a B-Corp</a>, and an{' '}
               <a href="https://notco.com/">AI company</a>. However, my focus these days is on
               building something that helps those around me:{' '}
-              <a href="https://www.sportspot.online/">SportSpot</a> &
+              <a href="https://www.sportspot.online/">SportSpot</a> &{' '}
               <a href="https://main.domwg75nq6jft.amplifyapp.com/">ReadEase</a>.
             </p>
 
