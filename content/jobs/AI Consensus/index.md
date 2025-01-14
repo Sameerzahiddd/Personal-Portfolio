@@ -4,7 +4,7 @@ title: 'Director of Web Strategy and Partnerships'
 company: 'AI Consensus'
 location: 'San Francisco, CA'
 range: 'March 2023 - Present'
-url: ''
+url: 'https://www.aiconsensus.org/'
 ---
 
 - Co-Founding Member of AI Consensus, a student organization focused on responsibly integrating AI into education. Helped grow the organization from its inception in March 2023 to securing over $200K in funding to date.
