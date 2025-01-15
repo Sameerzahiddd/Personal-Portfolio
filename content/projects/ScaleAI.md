@@ -2,7 +2,7 @@
 date: '2023-06-15'
 title: 'Mitigating AI Bias'
 github: ''
-external: '/ScaleAi.pdf'
+external: '/ScaleAI.pdf'
 tech:
   - Python
   - TensorFlow
