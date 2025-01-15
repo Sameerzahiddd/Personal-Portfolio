@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Sameer Zahid',
     description:
-      'Sameer Zahid is a software engineer who loves to research and build things that everyone can benefit from!',
+      'Sameer Zahid is a software engineer who loves to research and build things that advance ethical Human-AI collaboration!',
     siteUrl: 'https://sameerzahid.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sameerzahidddd',
