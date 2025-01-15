@@ -144,18 +144,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Sameer, and I'm passionate about developing safe AI systems that enhance
-              learning capabilities. My journey into AI began with teaching machine learning to
-              students at Minerva University & Google Developer Student Clubs, where I discovered
-              how thoughtfully designed AI systems could transform education and accessibility.
+              Hello! I'm Sameer, and I'm passionate about developing responsible AI systems that
+              enhance ethical Human-AI collaboration. My journey into AI began with researching bias
+              in hiring technologies at <a href="\ScaleAI.pdf">Scale AI</a>, where I discovered how
+              thoughtfully designed AI systems could transform human-AI teamwork and ensure fair
+              outcomes.
+            </p>
+            <p>
+              Currently, at <a href="https://www.aiconsensus.org/">AI Consensus</a>, I help in
+              bridging the gap between AI innovation and responsible implementation by conducting
+              student-lead, throught-provoking workshops that encourage ethical Human-AI
+              partnership.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              I’ve also had the privilege of working at{' '}
               <a href="https://www.idtech.com/">a big tech camp</a>,{' '}
               <a href="https://www.terraeducation.com/">a B-Corp</a>, and an{' '}
               <a href="https://notco.com/">AI company</a>. However, my focus these days is on
-              building something that helps those around me:{' '}
+              building things that helps those around me:{' '}
               <a href="https://www.sportspot.online/">SportSpot</a> &{' '}
               <a href="https://main.domwg75nq6jft.amplifyapp.com/">ReadEase</a>.
             </p>

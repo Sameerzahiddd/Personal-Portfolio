@@ -1,5 +1,5 @@
 ---
-date: '2023-06-15'
+date: '2022-01-01'
 title: 'Mitigating AI Bias'
 github: ''
 external: '/ScaleAI.pdf'
