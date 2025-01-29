@@ -62,10 +62,7 @@ const Hero = () => {
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Sameer Zahid.</h2>;
   const three = (
-    <h3 className="big-heading">
-      I'm dedicated to building AI systems that enable effective and equitable Human-AI
-      collaboration.
-    </h3>
+    <h3 className="big-heading">I love building things that people can benefit from.</h3>
   );
   const four = (
     <>

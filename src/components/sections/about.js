@@ -144,17 +144,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Sameer, and I'm passionate about developing responsible AI systems that
-              enhance ethical Human-AI collaboration. My journey into AI began with researching bias
-              in hiring technologies at <a href="\ScaleAI.pdf">Scale AI</a>, where I discovered how
-              thoughtfully designed AI systems could transform human-AI teamwork and ensure fair
-              outcomes.
+              Hello! I'm Sameer, and I'm passionate about developing systems that enhance Human-AI
+              collaboration. My journey into AI began with researching bias in hiring technologies
+              at <a href="\ScaleAI.pdf">Scale AI</a>, where I discovered how thoughtfully designed
+              AI systems could transform human-AI teamwork.
             </p>
             <p>
               Currently, at <a href="https://www.aiconsensus.org/">AI Consensus</a>, I help in
               bridging the gap between AI innovation and responsible implementation by conducting
-              student-lead, throught-provoking workshops that encourage ethical Human-AI
-              partnership.
+              student-lead, throught-provoking workshops that encourage Human-AI partnership.
             </p>
 
             <p>
