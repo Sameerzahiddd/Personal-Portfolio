@@ -61,15 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Sameer Zahid.</h2>;
-  const three = (
-    <h3 className="big-heading">I love building things that people can benefit from.</h3>
-  );
+  const three = <h3 className="big-heading">I love building AI applications that help people.</h3>;
   const four = (
     <>
       <p style={{ whiteSpace: 'nowrap' }}>
-        Currently changing how AI helps people read documents online through{' '}
-        <a href="https://github.com/Sameerzahiddd/ReadEase" target="_blank" rel="noreferrer">
-          ReadEase
+        Currently helping enterprises deploy intelligent AI agents at{' '}
+        <a href="https://www.lindy.ai/" target="_blank" rel="noreferrer">
+          Lindy
         </a>
         .
       </p>

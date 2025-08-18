@@ -150,9 +150,11 @@ const About = () => {
               AI systems could transform human-AI teamwork.
             </p>
             <p>
-              Currently, at <a href="https://www.aiconsensus.org/">AI Consensus</a>, I help in
-              bridging the gap between AI innovation and responsible implementation by conducting
-              student-lead, throught-provoking workshops that encourage Human-AI partnership.
+              Currently, as an AI Implementation Engineer at{' '}
+              <a href="https://www.lindy.ai/">Lindy</a>, I help enterprises deploy intelligent AI
+              agents that save 15-25 hours per week through custom automation solutions. I manage
+              nearly $1M in ARR across diverse client portfolios ranging from SMEs to Fortune 500
+              companies.
             </p>
 
             <p>

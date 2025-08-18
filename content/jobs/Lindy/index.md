@@ -12,3 +12,4 @@ url: 'https://www.lindy.ai/'
 - Design, build, and deploy AI agents from scratch using custom API integrations, iteratively refining implementations based on client feedback and performance metrics to achieve 40%+ efficiency improvements
 - Lead end-to-end forward deployment process, from initial discovery calls through production rollout, ensuring seamless integration with existing client workflows and systems
 - Quantify and track implementation success through detailed ROI analysis, demonstrating average cost savings of $30,000+ annually per client through automated process optimization
+- Led development of comprehensive documentation platform at [docs.lindy.ai](https://docs.lindy.ai/) with 2 teammates, delivering complete user guide and technical documentation within first week of employment
