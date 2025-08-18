@@ -3,7 +3,7 @@ date: '7'
 title: 'Director of Web Strategy and Partnerships'
 company: 'AI Consensus'
 location: 'San Francisco, CA'
-range: 'March 2023 - Present'
+range: 'March 2023 - May 2024'
 url: 'https://www.aiconsensus.org/'
 ---
 
