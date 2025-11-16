@@ -1,6 +1,6 @@
 ---
 date: '8'
-title: 'AI Implementation Engineer'
+title: 'Forward Deployed Engineer'
 company: 'Lindy'
 location: 'San Francisco, CA'
 range: 'June 2024 - Present'

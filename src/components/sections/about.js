@@ -144,27 +144,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Sameer, and I'm passionate about developing systems that enhance Human-AI
-              collaboration. My journey into AI began with researching bias in hiring technologies
-              at <a href="\ScaleAI.pdf">Scale AI</a>, where I discovered how thoughtfully designed
-              AI systems could transform human-AI teamwork.
-            </p>
-            <p>
-              Currently, as an AI Implementation Engineer at{' '}
-              <a href="https://www.lindy.ai/">Lindy</a>, I help enterprises deploy intelligent AI
-              agents that save 15-25 hours per week through custom automation solutions. I manage
-              nearly $1M in ARR across diverse client portfolios ranging from SMEs to Fortune 500
-              companies.
+              Hello! I'm Sameer, a Forward Deployed Engineer at{' '}
+              <a href="https://www.lindy.ai/">Lindy AI</a> where I architect and deploy AI
+              automation systems for enterprise clients. I've built 75+ AI agents across 28+
+              companies representing $1.5M+ in ARR, engineering 100+ API integrations and delivering
+              conversational AI solutions that free people from repetitive work.
             </p>
 
             <p>
-              I’ve also had the privilege of working at{' '}
-              <a href="https://www.idtech.com/">a big tech camp</a>,{' '}
-              <a href="https://www.terraeducation.com/">a B-Corp</a>, and an{' '}
-              <a href="https://notco.com/">AI company</a>. However, my focus these days is on
-              building things that helps those around me:{' '}
-              <a href="https://www.sportspot.online/">SportSpot</a> &{' '}
-              <a href="https://main.domwg75nq6jft.amplifyapp.com/">ReadEase</a>.
+              Previously, I researched AI bias at <a href="\ScaleAI.pdf">Scale AI</a>, taught ML at{' '}
+              <a href="https://www.terraeducation.com/">Terra Education</a>, and worked on AI-driven
+              product formulation at <a href="https://notco.com/">NotCo</a>. I also built{' '}
+              <a href="https://www.sportspot.online/">SportSpot</a> and{' '}
+              <a href="https://main.domwg75nq6jft.amplifyapp.com/">ReadEase</a> to solve problems I
+              saw around me.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
