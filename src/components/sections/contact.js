@@ -60,8 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Always open to new ideas, projects, and meeting new people. Whether you have a question or
-        just want to say hi, don't hesitate to click the button below!
+        Have an AI deployment that's stuck, or one your team hasn't started yet? Send me a note.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

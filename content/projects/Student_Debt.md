@@ -8,7 +8,7 @@ tech:
   - Data Visualization
   - Policy Evaluation & Recommendations
 company: 'Minerva University'
-showInProjects: true
+showInProjects: false
 ---
 
 An in-depth analysis of the growing U.S. student debt crisis, its impact on the economy, and potential policy solutions to mitigate its long-term risks.

@@ -13,4 +13,4 @@ tech:
   - Tailwind CSS
 ---
 
-Having struggled with managing my tasks effectively, I made a Task Manager that keeps track of everything I need to get done. It features nested task capabilities, drag-and-drop, delete, move and check functionality, alongside user authentication.
+A task manager with nested subtasks, drag-and-drop, and login. I built it because my own to-do list kept getting away from me.

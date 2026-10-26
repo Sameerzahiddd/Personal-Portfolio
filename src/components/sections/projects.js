@@ -265,7 +265,7 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Research Projects</h2>
+      <h2 ref={revealTitle}>Other Projects</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         View all Projects
@@ -302,9 +302,11 @@ const Projects = () => {
         )}
       </ul>
 
-      <button className="more-button" onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </button>
+      {projects.length > GRID_LIMIT && (
+        <button className="more-button" onClick={() => setShowMore(!showMore)}>
+          Show {showMore ? 'Less' : 'More'}
+        </button>
+      )}
     </StyledProjectsSection>
   );
 };

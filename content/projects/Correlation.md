@@ -9,7 +9,7 @@ tech:
   - Predictive Analytics
   - Confidence Intervals
 company: 'Minerva University'
-showInProjects: true
+showInProjects: false
 ---
 
 Evaluating the Linear Relationship Between Weight and Height: A Correlation and Regression Analysis of Youth Data

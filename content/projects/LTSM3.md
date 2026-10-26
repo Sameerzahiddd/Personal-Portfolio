@@ -12,4 +12,4 @@ company: 'Minerva University'
 showInProjects: true
 ---
 
-The final iteration implements a generative pre-trained transformer model with a focus on emulating my personal writing style. Enhanced the preprocessing pipeline through tokenization and text augmentation. Conducted model evaluation and provided insights.
+A small GPT-style transformer trained to write like me, with byte-pair tokenization and text augmentation.

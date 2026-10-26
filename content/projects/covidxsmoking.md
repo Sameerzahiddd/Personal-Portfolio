@@ -9,7 +9,7 @@ tech:
   - Qualitative categorization
   - Confounding Variable Analysis
 company: 'Minerva University'
-showInProjects: true
+showInProjects: false
 ---
 
 A retrospective cohort observational study design to explore the correlation between smoking habits and the severity of COVID-19 symptoms.

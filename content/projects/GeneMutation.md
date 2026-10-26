@@ -10,4 +10,4 @@ company: 'Minerva University'
 showInProjects: true
 ---
 
-This project is a demonstration of finding the Genealogy tree from a set of gene sequences that have a small probability of insertion, deletion and mutation using both a local and global algorithmic approaches that use Dynamic Programming and Levenshtein distance.
+Rebuilds a family tree from mutated gene sequences using dynamic programming and Levenshtein distance.

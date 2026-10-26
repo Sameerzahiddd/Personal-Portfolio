@@ -11,4 +11,4 @@ company: 'Minerva University'
 showInProjects: true
 ---
 
-A demostration of algorithmic optimization and numerical simulation through two focused applications: optimizing routes for efficient vaccine distribution and modeling the spread of infectious diseases using the SIR model.
+Route optimization for vaccine delivery, plus an SIR model of how a disease spreads.

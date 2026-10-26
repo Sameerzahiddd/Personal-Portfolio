@@ -127,12 +127,12 @@ const About = () => {
 
   const skills = [
     'Python',
-    'PyTorch',
-    'React',
-    'TensorFlow',
-    'Node.js',
-    'GraphQL',
-    'SQL',
+    'TypeScript',
+    'LLM agents & evals',
+    'Voice AI (STT, IVR)',
+    'RAG & tool calling',
+    'React & Next.js',
+    'PostgreSQL',
     'Docker',
   ];
 
@@ -144,23 +144,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Sameer, a Forward Deployed Engineer at{' '}
-              <a href="https://www.lindy.ai/">Lindy AI</a> where I architect and deploy AI
-              automation systems for enterprise clients. I've built 75+ AI agents across 28+
-              companies representing $1.5M+ in ARR, engineering 100+ API integrations and delivering
-              conversational AI solutions that free people from repetitive work.
+              I'm a Forward Deployed Engineer at <a href="https://giga.ai/">Giga AI</a>. I work with
+              enterprise teams to find the calls and chats that eat their week, then build and
+              launch voice and chat agents that handle them. I'm on 10+ client deployments right
+              now.
             </p>
 
             <p>
-              Previously, I researched AI bias at <a href="\ScaleAI.pdf">Scale AI</a>, taught ML at{' '}
-              <a href="https://www.terraeducation.com/">Terra Education</a>, and worked on AI-driven
-              product formulation at <a href="https://notco.com/">NotCo</a>. I also built{' '}
-              <a href="https://www.sportspot.online/">SportSpot</a> and{' '}
-              <a href="https://main.domwg75nq6jft.amplifyapp.com/">ReadEase</a> to solve problems I
-              saw around me.
+              Before Giga AI, I was an FDE at <a href="https://www.lindy.ai/">Lindy</a>, where I built
+              75+ agents for 28 clients. I also founded <a href="https://otom8.us">otom8</a> and{' '}
+              <a href="https://www.sportspot.online/">SportSpot</a>, and studied CS and business at
+              Minerva across 7 cities.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Tools I use most:</p>
           </div>
 
           <ul className="skills-list">

@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A versatile tool designed to enhance reading comprehension by providing advanced text highlighting features on two platforms: a browser extension and a web application.
+A browser extension and web app that highlights text to make reading easier.

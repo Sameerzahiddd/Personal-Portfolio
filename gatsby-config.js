@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Sameer Zahid',
     description:
-      'Sameer Zahid is a Forward Deployed Engineer at Lindy AI who builds AI systems that advance ethical human-AI collaboration, freeing humanity from work.',
+      'Sameer Zahid is a Forward Deployed Engineer at Giga AI who scopes, builds, and launches voice and chat AI agents for enterprise teams.',
     siteUrl: 'https://sameerzahid.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sameerzahidddd',
