@@ -2,8 +2,8 @@
 date: '2'
 title: 'SportSpot'
 cover: './SportSpot.png'
-github: 'https://github.com/Sameerzahiddd/SportSpot'
-external: 'https://drive.google.com/file/d/1O98Le_oe94sESo87QlezypEIh04Gxury/view?usp=sharing'
+github: ''
+external: ''
 tech:
   - React
   - Next.js

@@ -152,8 +152,8 @@ const About = () => {
 
             <p>
               Before Giga AI, I was an FDE at <a href="https://www.lindy.ai/">Lindy</a>, where I built
-              75+ agents for 28 clients. I also founded <a href="https://otom8.us">otom8</a> and{' '}
-              <a href="https://www.sportspot.online/">SportSpot</a>, and studied CS and business at
+              75+ agents for 28 clients. I also founded <a href="https://otom8.us">otom8</a> and SportSpot,
+              and studied CS and business at
               Minerva across 7 cities.
             </p>
 
